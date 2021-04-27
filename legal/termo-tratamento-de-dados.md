@@ -18,7 +18,7 @@ Os seus dados pessoais fornecidos para o AppJusto ao se cadastrar na plataforma 
 - Informaçoes de pagamento fornecidas servirão para que possamos realizar o repasse dos valores pelos seus serviços na forma como estipulado nos Termos e Condições de Uso da Plataforma
 - Informações de localização fornecidas servirão para que nossa plataforma, através do seus GPS e redes móveis, possa traçar o rota da entrega e acompanhar o trajeto.
 - Informações sobre o seus dispositivo (telefone móvel, tablet, etc) fornecidas servirão para que a nossa plataforma possa coletar informações sobre idioma, data e horário, fabricante e modelo do dispositivo, operadora, redes Wi-Fi, número do telefone, etc.
-- Prevenção e repreesão a fraudes, inclusive fruto de reclamações de outros participantes de nossa plafaforma como restaurantes e clientes.
+- Prevenção e repreesão a fraudes, inclusive fruto de reclamações de outros participantes de nossa plafaforma como restaurantes, entregadores ou consumidores.
 
 Ao aceitar o presente termo, você autoriza o AppJusto a:
 
